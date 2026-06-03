@@ -12,7 +12,8 @@ This system replaces legacy operational tracking by providing a secure administr
     *   *Feed Prediction Model:* Optimizes feed consumption based on flock health.
     *   *Environmental Monitoring:* Classifies health anomalies using Support Vector Machines (SVM) and Decision Trees.
 *   **RESTful API Architecture:** A decoupled Django backend that serves database queries and AI predictions directly to the web interface via standardized API endpoints for real-time visualization.
-<img width="1856" height="738" alt="image" src="https://github.com/user-attachments/assets/51aef016-79cb-4152-aa29-7aa504d3b7c5" />
+<img width="1790" height="771" alt="image" src="https://github.com/user-attachments/assets/fb1fc74a-6c8d-4b9d-bd7b-0a301b1c5965" />
+
 
 
 <img width="1733" height="765" alt="image" src="https://github.com/user-attachments/assets/b984d288-b9e9-45a0-82c7-99aaef443ad2" />
