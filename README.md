@@ -20,7 +20,8 @@ This system replaces legacy operational tracking by providing a secure administr
 <img width="788" height="727" alt="image" src="https://github.com/user-attachments/assets/9c63fd82-3589-4566-9d3a-012902aeb06c" />
 <img width="1729" height="773" alt="image" src="https://github.com/user-attachments/assets/fda8f071-7169-4dfa-be1c-6d5ecbce55f1" />
 
-<img width="1872" height="715" alt="image" src="https://github.com/user-attachments/assets/9a1ec0da-c570-4ef7-be25-c9aac5b05b2f" />
+<img width="1653" height="606" alt="image" src="https://github.com/user-attachments/assets/7d3dab3f-fcbc-4cf1-a3a1-d6856edb1792" />
+
 
 
 <img width="1919" height="807" alt="image" src="https://github.com/user-attachments/assets/7d4aa364-8d9c-4b0e-833e-e08be8be72ef" />
